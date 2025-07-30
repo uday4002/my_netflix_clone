@@ -1,3 +1,4 @@
+const api_key = "2ebcef56b37e6b7e935d0024e603e1ac";
 const base_url = "https://api.themoviedb.org/3";
 const image_url = "https://image.tmdb.org/t/p/w500";
 const banner_url = "https://image.tmdb.org/t/p/original";
